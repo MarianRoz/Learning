@@ -12,6 +12,7 @@ namespace _2Essential.TasksClass
 
     abstract class AbstractHandler
     {
+        //add
         public abstract void Open();
         public abstract void Create();
         public abstract void Chenge();
