@@ -6,4 +6,12 @@
     <RootNamespace>_2Essential</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="TasksClass\" />
+    <None Remove="TasksIndexers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="TasksClass\" />
+    <Folder Include="TasksIndexers\" />
+  </ItemGroup>
 </Project>

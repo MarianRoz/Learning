@@ -1,6 +1,12 @@
 ﻿using System;
 namespace _2Essential.TasksClass
 {
+//    Задание
+//Используя Visual Studio, создайте проект по шаблону Console Application.
+//Требуется:
+//Создать статический класс Calculator, с методами для выполнения основных арифметических операций.
+//Написать программу, которая выводит на экран основные арифметические операции.
+
     public static class Calculator
     {
         public static double a;
